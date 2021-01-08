@@ -1,5 +1,5 @@
 {
-  "name": "excel-course",
+  "name": "excel-app",
   "version": "1.0.0",
   "description": "Pure JavaScript Excel Application",
   "main": "webpack.config.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitaliy1804/excel-course.git"
+    "url": "git+https://github.com/vitaliy1804/excel-app.git"
   },
   "keywords": [
     "js",
@@ -27,6 +27,7 @@
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
     "@babel/core": "^7.8.4",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/preset-env": "^7.8.4",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.0.6",
